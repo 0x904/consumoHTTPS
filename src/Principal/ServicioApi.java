@@ -16,7 +16,6 @@ public class ServicioApi
 	public static String obtenerDatos()
 	{
 		int codigo;
-		InputStreamReader flujoDeEntrada;
 		BufferedReader in;
 		StringBuilder sb = new StringBuilder();
 		String linea;
