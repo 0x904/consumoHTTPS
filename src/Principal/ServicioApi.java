@@ -42,7 +42,7 @@ public class ServicioApi
 				in.close();
 				
 				JSONObject json = new JSONObject(sb.toString());
-				// ... pa seguir
+				// ... pa seguir push
 			}
 			
 			conexion.disconnect();
